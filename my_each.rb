@@ -6,5 +6,3 @@ def my_each
     i = i + 1
   end
 end
-end
-end
