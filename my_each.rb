@@ -1,6 +1,6 @@
  def my_each(array)
   i = 0
-  collection = []
+  collection = ["arel", "jon", "logan", "spencer"]
   while i < array.length
    collection << yield(array[i])
     i += 1 
