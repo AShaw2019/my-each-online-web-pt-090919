@@ -2,7 +2,7 @@
   i = 0
   collection = ["arel", "jon", "logan", "spencer"]
   while i < array.length
-   collection << yield(array["arel", "jon", "logan", "spencer"])
+   collection << yield(array[i])
     i += 1 
   end
   collection
